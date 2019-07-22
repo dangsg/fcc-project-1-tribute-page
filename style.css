@@ -1,0 +1,30 @@
+#image {
+	display: block;
+	max-width: 80%;
+	height: auto;
+	margin: auto;
+}
+
+#img-div {
+	text-align: center;
+}
+
+header, footer {
+	text-align: center;
+}
+
+body {
+	width: 80%;
+	margin: auto;
+	background-color: black;
+	color: white;
+}
+
+h1 {
+	color: red;
+}
+
+h2, h3 {
+	color: orange;
+	padding-left: 10px;
+}
